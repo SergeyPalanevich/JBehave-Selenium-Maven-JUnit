@@ -1,0 +1,11 @@
+/target
+/test-output
+/bin
+# Eclipse generated files
+.classpath
+.project
+.settings
+
+# Idea generated files
+*.iml
+.idea
